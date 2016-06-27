@@ -1,3 +1,3 @@
 document.getElementById('form').onsubmit=function(){
-  window.alert('押したよ');
+  window.alert)(document.getElementById('form').word.value);
 };
